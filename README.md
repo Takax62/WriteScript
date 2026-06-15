@@ -16,7 +16,7 @@ This is a handwritten font made by me. There are font types such as Regular (bas
 
 - Linux - User-only / System-wide
   - User-only
-    > **To install, open the terminal and type:
+    > **To install, open the terminal and type:**
     ```
     mkdir -p ~/.local/share/fonts
     cp (replace with the font's filename here) ~/.local/share/fonts/
