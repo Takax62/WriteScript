@@ -1,5 +1,5 @@
 # WriteScript
-This is a handwritten font made by me. There are font types such as regular (basic, regular type) and plus (more like medium, more extended with e.g, ß, ő, ű, more math symbols, etc). Feel free to use it in apps like Microsoft Word.
+This is a handwritten font made by me. There are font types such as Regular (basic, regular type) and Plus (more like medium, extended with e.g, ß, ő, ű, more math symbols, etc). Feel free to use it in apps like Microsoft Word.
 
 # Installation
 - Windows - Manual Copy / Font Viewer
@@ -32,4 +32,18 @@ This is a handwritten font made by me. There are font types such as regular (bas
 - Android - zFont 3
   > **To install, download the .ttf, open zFont 3 (make sure you have it installed, or get it in the Play Store), go to Local, select the .ttf file, tap on apply, enter your Android phone's brand and restart (if required), and done.**
 
+# Comparison
+> ### **Basically, use Regular, if you want simple, basic usage, and use Plus, if you want better multi-language support and more math symbols.**
+| Feature / Use case | Recommended font type |
+|--------------------|-----------------------|
+| Simplicity | Regular |
+| Pro work | Plus |
+| Basic, simple characters | Regular |
+| Multilingual characters, more math symbols | Plus |
+| Basic Latin | Regular |
+| More Unicode characters | Plus |
+| English-only / Personal websites | Regular |
+| Multilingual websites | Plus |
+| Simple texts / Simple essays | Regular |
+| Advanced texts / Advanced essays (mostly if multilingual) | Plus |
 ### ***Have fun using this handwritten font!***
